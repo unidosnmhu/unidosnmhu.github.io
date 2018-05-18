@@ -1,0 +1,700 @@
+  body {
+            padding-top: 51px;
+            font-family: 'chaperralpro', arial, sans-serif !important;
+            line-height: 1.4 !important;
+           
+        }
+        .container-map{
+            margin:auto;
+        }
+            .container-map img {
+                border: 5px solid #ddd;
+            }
+        #img-hu-logo {
+            width: 100px;
+            margin-left: 77px;
+            position: absolute;
+        }
+
+        #unidos-container {
+            max-width: 970px !important;
+        }
+
+        #unidos-div-unidos-logo {
+        }
+
+        #unidos_Logo {
+            /*border-top: 8px solid #5b2d82;
+            border-bottom: 8px solid #e0cd62;
+            border-left: 13px solid #e0cd62;
+            border-right: 13px solid #5b2d82;*/
+            margin: auto;
+            width: 265px;
+            padding-top: 7px;
+        }
+
+        #unidos-div-header-images {
+            position: relative;
+        }
+
+            #unidos-div-header-images #unidos-content-banner {
+                position: absolute;
+                bottom: 0;
+                background: rgba(0, 0, 0, 0.5); /* Black background with transparency */
+                color: #f1f1f1;
+                width: 100%;
+                padding: 20px;
+            }
+
+        #unidos-content-banner h3 {
+            color: #e0cd62;
+           
+
+            font-style: italic;
+            font-weight: 700;
+        }
+
+        .unidos-div-ptxt {
+            /*background: #464646;*/
+            padding: 10px;
+        }
+
+        .unidos-ptxt-1 {
+          
+          
+           
+            /*color: white;*/
+            /*margin-top: 5px !important;
+            margin-bottom: 5px !important;*/
+        }
+
+        .unidos-subheader {
+          
+            background: #e0cd62;
+            /*padding: 10px;*/
+            max-width: 35%;
+            margin: auto;
+            margin-top: 0px !important;
+            text-align: center;
+        }
+
+        .p-10 {
+            padding: 10px;
+        }
+
+        ​.unidos-div-subheader {
+            padding: 10px !important;
+           
+          
+        }
+        .c-w{
+            color:white;
+        }
+        .bt-2 {
+            border-top: 2px solid #ddd !important;
+        }
+
+        .card1 {
+            /* Add shadows to create the "card" effect */
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        }
+
+        .card {
+            /* Add shadows to create the "card" effect */
+            /*box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);*/
+            transition: 0.3s;
+        }
+
+            .card:hover {
+                box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+            }
+
+        .unidos-div-programoutcomes {
+           
+          
+           
+            /*background-color: #DAD3CB;*/
+            /*border: 1px solid;*/
+            display: inline-block;
+        }
+
+        #unidos-div-programoutcomes-boxes {
+            margin-bottom: 10px;
+            display: inline-block;
+        }
+
+        .unidos-div-programoutcomes1 {
+            background-color: #5b2d82;
+            color: white;
+            /*margin: 25px;*/
+            /*height: 300px;*/
+            border: 5px solid white;
+        }
+
+            .unidos-div-programoutcomes1 h3 {
+                background-color: #DAD3CB;
+                color: #464646;
+                width: 60px;
+                margin: auto;
+                margin-top: 5px;
+                background-color: white;
+            }
+
+            .unidos-div-programoutcomes1 p {
+                border: 1px solid;
+                /*min-height: 240px;*/
+                padding: 10px;
+                border: 1px solid white;
+            }
+
+        .unidos-div-programoutcomes2 {
+            background-color: #e0cd62;
+            /*margin: 25px;*/
+            /*height: 300px;*/
+            border: 5px solid white;
+        }
+
+            .unidos-div-programoutcomes2 h3 {
+                background-color: #DAD3CB;
+                color: #464646;
+                width: 60px;
+                margin: auto;
+                margin-top: 5px;
+                background-color: white;
+            }
+
+            .unidos-div-programoutcomes2 p {
+                border: 1px solid;
+                min-height: 134px;
+                padding: 10px;
+                border: 1px solid white;
+            }
+
+        .unidos-div-programoutcomes3 {
+            background-color: #5b2d82;
+            color: white;
+            /*margin: 25px;*/
+          
+            border: 5px solid white;
+        }
+
+            .unidos-div-programoutcomes3 h3 {
+                background-color: #DAD3CB;
+                color: #464646;
+                width: 60px;
+                margin: auto;
+                margin-top: 5px;
+                background-color: white;
+            }
+
+            .unidos-div-programoutcomes3 p {
+                border: 1px solid;
+                min-height: 133px;
+                padding: 10px;
+                border: 1px solid white;
+            }
+
+        .unidos-li-tabs {
+            /*background-color:#5b2d82;*/
+        }
+
+            .unidos-li-tabs a {
+                background-color: #5b2d82 !important;
+                color: white !important;
+            }
+
+        .active {
+            border: 1px solid #ddd !important;
+        }
+
+        .unidos-tab-content {
+            margin-top: -4px;
+            /*background-color: #e0cd62;*/
+        }
+
+            .unidos-tab-content p {
+                border: 1px solid white;
+                padding: 10px;
+            }
+
+        .unidos-nav-tabs {
+            display: inline-block;
+        }
+        /*.unidos-tab-content a {
+                background-color: white;
+                margin-top: 55px;
+            }*/
+
+
+        .col-center {
+            margin: 0 auto;
+            float: none !important;
+        }
+
+        .carousel {
+            margin-top: 0px !important;
+            margin: 50px auto;
+            padding: 0 70px;
+        }
+
+            .carousel .item {
+                color: #999;
+              
+                text-align: center;
+                overflow: hidden;
+                background-color: #5b2d82;
+            }
+
+                .carousel .item p {
+                    border: none;
+                }
+
+                .carousel .item .img-box {
+                    width: 135px;
+                    height: 135px;
+                    margin: 0 auto;
+                    padding: 5px;
+                    border: 1px solid #ddd;
+                    border-radius: 50%;
+                }
+
+            .carousel .img-box img {
+                width: 100%;
+                height: 100%;
+                display: block;
+                border-radius: 50%;
+            }
+
+            .carousel .testimonial {
+                padding: 30px 0 10px;
+            }
+
+            .carousel .overview {
+                font-style: italic;
+            }
+
+                .carousel .overview b {
+                    text-transform: uppercase;
+                    color: #7AA641;
+                }
+
+            .carousel .carousel-control {
+                width: 40px;
+                height: 40px;
+                margin-top: -20px;
+                top: 50%;
+                background: none;
+            }
+
+        .carousel-control i {
+          
+         
+            position: absolute;
+            display: inline-block;
+            color: rgba(0, 0, 0, 0.8);
+            text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+        }
+
+        .carousel .carousel-indicators {
+            bottom: -40px;
+        }
+
+        .carousel-indicators li, .carousel-indicators li.active {
+            width: 10px;
+            height: 10px;
+            margin: 1px 3px;
+            border-radius: 50%;
+        }
+
+        .carousel-indicators li {
+            background: #999;
+            border-color: transparent;
+            box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+        }
+
+            .carousel-indicators li.active {
+                background: #555;
+                box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+            }
+
+        .unidos-div-ptxt1 {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        .unidos-div-aboutTecnology {
+            /*border: 1px solid;*/
+            display: inline-block;
+           
+        }
+
+            .unidos-div-aboutTecnology h3 {
+                background-color: #e0cd62;
+               
+            }
+
+        .unidos-div-aboutTecnology-p {
+            background-color: #5b2d82;
+            color: white;
+            padding: 10px;
+            border: 10px solid white;
+        }
+
+        #unidos-div-hybrid {
+            margin: auto;
+            width: 45%;
+            margin-top: -31px;
+            position: relative;
+            border: 1px solid white;
+        }
+
+        .unidos-Technology-p {
+            border: 1px solid;
+            padding: 10px;
+            min-height:201px;
+        }
+
+        .mt-10 {
+            margin-top: 10px;
+        }
+
+        .mb-10 {
+            margin-bottom: 10px;
+        }
+
+        .unidos-div-survey {
+            /*border: 1px solid;*/
+            display: inline-block;
+          
+            padding: 10px;
+        }
+
+        .unidos-div-partnership {
+		    overflow-wrap: break-word;
+            /*border: 1px solid;*/
+         <!--    display: inline-block; -->
+        }
+
+        .unidos-div-team {
+            /*border: 1px solid;*/
+            /*display: inline-block;*/
+        }
+
+            .unidos-div-team h3 {
+                width: 40%;
+                background-color: #e0cd62;
+                margin: auto;
+            }
+
+        .m-10 {
+            margin: 10px;
+        }
+
+        .floating-div {
+            position: fixed;
+            margin-top: 145px;
+            margin-left: 30px;
+        }
+
+
+        @media screen and (min-width: 720px) {
+            .unidos-header-links {
+                display: none;
+            }
+			
+			
+			
+        }
+
+        @media screen and (max-width: 720px) {
+		
+		.map-show-mobile{
+			display:block !important;
+			}
+		
+		.map-hide-mobile{
+		display:none;
+		}
+		#hu-logo-1{
+			display:none;
+			
+			}
+            .floating-div {
+                display: none;
+            }
+
+            .unidos-header-links {
+                display: block;
+            }
+
+            #unidos-div-hybrid {
+                width: 100%;
+                margin-top: 0px;
+            }
+
+            .unidos-subheader {
+                max-width: 100%;
+            }
+        }
+
+        /*nav bar auto hide styles*/
+
+        nav {
+            /*background: #fff;
+            height: 80px;
+            line-height: 80px;
+            box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 9998;*/
+            transition: all 0.5s;
+        }
+
+            nav.scrollUp {
+                transform: translateY(-80px);
+            }
+
+        /*nav ul.navbar-menu {
+                margin: 0;
+                padding: 0;
+                display: inline-block;
+                float: right;
+            }*/
+
+        /*nav ul.navbar-menu li {
+                    display: inline-block;
+                    margin: 0 10px;
+                }*/
+
+        /*nav ul.navbar-menu li a {
+                        color: #666;
+                        font-size: 14px;
+                    }*/
+
+        /*nav a#brand {
+                text-transform: uppercase;
+                float: left;
+                font-weight: 800;
+                font-size: 20px;
+            }*/
+
+        /*nav button {
+                background: none;
+                width: 30px;
+                height: 40px;
+                margin-top: 20px;
+                border: none;
+                float: right;
+                display: inline-block;
+                cursor: pointer;
+                display: none;
+            }*/
+
+        /*nav button span {
+                    width: 30px;
+                    height: 40px;
+                    height: 2px;
+                    background: #333;
+                    display: block;
+                    margin: 5px 0;
+                }*/
+
+        @media (max-width: 768px) {
+            nav ul.navbar-menu {
+                display: none;
+            }
+
+            nav button {
+                display: block;
+            }
+			
+			
+        }
+
+        .pl-10 {
+            padding-left: 10px;
+        }
+
+        .fs-17 {
+           
+        }
+
+        .container {
+            /*border:1px solid #ddd;*/
+            background: white;
+        }
+
+        .scrolling-wrapper {
+            overflow-x: scroll;
+            overflow-y: hidden;
+            white-space: nowrap;
+        }
+        /*:not(.container) {
+            background-color:red !important;
+        }*/
+
+        body {
+            background: url('unidos-img/bg.png') repeat;
+        }
+
+        .bootstrap {
+            background-color: transparent;
+          
+            font-family: 'chaperralpro', arial, sans-serif !important;
+            line-height: 1.4 !important;
+            font-size: 16px !important;
+        }
+        /*styles form map*/
+
+        .container-map {
+            position: relative;
+            max-width: 400px;
+        }
+
+            .container-map img {
+                width: 100%;
+                height: auto;
+            }
+
+            .container-map #hu_button {
+                position: absolute;
+                top: 65%;
+                left: 60%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                background-color: #555;
+                color: white;
+            
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+                text-align: center;
+            }
+
+            .container-map #unmt_button {
+                position: absolute;
+                top: 53%;
+                left: 54%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                background-color: #555;
+                color: white;
+              
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+                text-align: center;
+            }
+
+            .container-map #adams_button {
+                position: absolute;
+                top: 40%;
+                left: 52%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                background-color: #555;
+                color: white;
+            
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+                text-align: center;
+            }
+
+        .container .btn:hover {
+            background-color: black;
+        }
+
+        #hu_button {
+            background: url(unidos-img/hu_logo.png);
+            height: 55px;
+            background-size: 100%; /* To fill the dimensions of container (button), or */
+        }
+
+        #unmt_button {
+            background: url(unidos-img/unmtaos-logo.jpg);
+            background-repeat: no-repeat;
+                height: 48px;
+            background-size: 100%; /* To fill the dimensions of container (button), or */
+        }
+
+        #adams_button {
+            background: url(unidos-img/adams-state-logo.png);
+            background-repeat: no-repeat;
+            width: 65px;
+               height: 37px;
+            background-size: 100%; /* To fill the dimensions of container (button), or */
+        }
+
+        .popover {
+            width: 100%;
+        }
+        #div-header-unidos{
+            height:100px;
+            background-color:#5b2d82;
+        }
+       
+        
+        #div2-nav {
+            height: 50px;
+            background-color: #5b2d82;
+        }
+
+        #div1-nav {
+            height: 28px;
+            background-color: white;
+            text-align:center;
+        }
+            #div1-nav img {
+                width: 250px;
+                
+                margin-top: 5px;
+                border: 2px solid white;
+            }
+
+            .unidos-team {
+                text-align:center;
+            }
+                .unidos-team img {
+                    max-height: 300px;
+                    height: 300px;
+                    border: 5px solid #ddd;
+                    margin-bottom:10px;
+                }
+
+		.div-bar {
+      width: 30px;
+    height: 3px;
+      background-color: #5b2d82;
+    margin: 5px 0;
+}
+.dropdown-menu-bar{
+
+    margin-top: -40px;
+    margin-left: 15px;
+}
+#dropdownMenu1{
+
+    padding: 0px 5px;
+}
+
+
+#hu-logo-1{
+
+width:100px;
+margin-left:75px;
+}
+ .blink_me {
+  animation: blinker 1.5s linear infinite;
+  color:red;
+  margin-top:10px;
+}
+
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
